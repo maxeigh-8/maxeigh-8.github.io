@@ -1,0 +1,41 @@
+img{
+    width: 100%;
+}
+.logo-img{
+    width: 100px;
+}
+.row{
+    align-items: center;
+    margin: 30px 0;
+}
+.top-text h2{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    text-shadow: 0px 0px 5px rgb(70, 64, 78);
+    font-size: 3rem;
+}
+.select-wrap h2{
+    font-family: 'Noto Serif Display', serif;
+    font-weight: 400;
+    text-decoration: underline;
+    text-decoration-color: rgb(58, 51, 58);
+}
+.select-wrap select{
+    border: 0;
+    outline: 0;
+    box-shadow:  0px 0px 5px rgb(47, 44, 53);
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: 900;
+}
+.propertes{
+    padding-right: 40px;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+.propertes span{
+    /* font-style: italic; */
+    font-weight: 500;
+}
